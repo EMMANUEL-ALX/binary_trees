@@ -266,9 +266,9 @@ Function Prototypes
     </ul>
 </details>
 <details>
-    <summary>--- Rasheed</summary>
+    <summary>Saheed Rasheed</summary>
     <ul>
-    <li><a href="https://www.github.com/rasheed">Github</a></li>
+    <li><a href="https://www.github.com/Jocatemir">Github</a></li>
     <li><a href="https://www.twitter.com/---rasheed">Twitter</a></li>
     <li><a href="mailto:---rasheed---@gmail.com">e-mail</a></li>
     </ul>
